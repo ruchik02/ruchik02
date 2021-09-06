@@ -1,6 +1,5 @@
 ### Hi  👋, I'm Ruchika sharma 
 
-<!--
 **ruchik02/ruchik02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +19,3 @@ Languages and Tools:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchik02&show_icons=true&locale=en" alt="ruchik02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchik02&" alt="ruchik02" /></p>
--->
