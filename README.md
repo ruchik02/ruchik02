@@ -1,6 +1,6 @@
 ### Hi  👋, I'm Ruchika sharma 
 <hr>
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+
 <p>
 <p>- 🔭 I’m currently working on android</p>
 <p>- 🌱 I’m currently learning frontend and backend</p>
