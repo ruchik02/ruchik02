@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **java,HTML,CSS,React,web Development**
 
-- 📫 How to reach me **sruchika004@gmail.com**
+- 📫 How to reach me **sharmaruchika537@gmail.com**
 
 - ⚡ Fun fact **Learn and share knowledge among students**
 
