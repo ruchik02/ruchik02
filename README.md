@@ -1,6 +1,6 @@
 ### Hi  👋, I'm Ruchika sharma 
 
-**ruchik02/ruchik02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**ruchik02/ruchik02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
