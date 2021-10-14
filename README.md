@@ -36,8 +36,10 @@
 <h2>GitHub Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ruchik02)](https://github.com/ryo-ma/github-profile-trophy)
+<h3>GitHub Graph</h3>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ruchik02)  
+<h4>GiHub Metrics</h4>
 
 ![GitHub metrics](https://metrics.lecoq.io/ruchik02)  
 
