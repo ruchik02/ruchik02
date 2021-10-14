@@ -2,21 +2,6 @@
 <hr>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/ruchik02/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/ruchik02/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/ruchik02/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/ruchik02/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
-  </a>
-</p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchik02" alt="ruchik02" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
