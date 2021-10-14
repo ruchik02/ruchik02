@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruchika sharma</h1>
-<hr>
+<!-- <hr> -->
 <h3 align="center">A passionate frontend developer from India</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'><!--](https://github.com/ruchik02)  -->
 
