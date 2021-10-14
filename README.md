@@ -3,17 +3,17 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
+  <a href="https://github.com/ruchik02/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/ruchik02/github-profile-trophy"/> 
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+  <a href="https://github.com/ruchik02/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/ruchik02/github-profile-trophy"/> 
   </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+  <a href="https://github.com/ruchik02/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/ruchik02/github-profile-trophy"/> 
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+    <a href="https://github.com/ruchik02/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/ruchik02/github-profile-trophy"/> 
   </a>
 </p>
 
