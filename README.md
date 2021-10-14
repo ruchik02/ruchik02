@@ -2,9 +2,24 @@
 <hr>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchik02&label=Profile%20views&color=0e75b6&style=flat" alt="ruchik02" /> </p>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3960415/screenshots/8995365/media/b0b5dddc53e15f8eb666502c9c3cb5d4.gif" width="500" height="320" style="max-width:100%;">
+
 
 - 🔭 I’m currently working on **android**
 
