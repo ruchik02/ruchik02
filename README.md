@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ruchika-sharma-a1b72b20b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchika sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/er-ruchika-sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchika sharma" height="30" width="40" /></a>
 </p>
 
 <img align="right" alt="GIF" src="https://st2.depositphotos.com/47122630/46219/v/380/depositphotos_462193526-stock-illustration-happy-female-office-worker-fully.jpg" width="500" height="320" style="max-width:100%;">
