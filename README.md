@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruchika sharma</h1>
 <!-- <hr> -->
-<h1>Portfolio https://0cvbwy.csb.app/</h1>
+<h4>Portfolio https://0cvbwy.csb.app/</h4>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'><!--](https://github.com/ruchik02)  -->
 
