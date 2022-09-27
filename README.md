@@ -41,7 +41,7 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchik02&show_icons=true&locale=en&layout=compact" alt="ruchik02" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchik02&show_icons=true&locale=en&layout=compact" alt="ruchik02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchik02&show_icons=true&locale=en" alt="ruchik02" /></p>
 
