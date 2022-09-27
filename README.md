@@ -3,8 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-
-
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3960415/screenshots/8995365/media/b0b5dddc53e15f8eb666502c9c3cb5d4.gif" width="500" height="320" style="max-width:100%;">
 
 - 🌱 I’m currently learning **frontend and backend**
 
@@ -21,7 +20,7 @@
 <a href="https://www.linkedin.com/in/er-ruchika-sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchika sharma" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://st2.depositphotos.com/47122630/46219/v/380/depositphotos_462193526-stock-illustration-happy-female-office-worker-fully.jpg" width="500" height="320" style="max-width:100%;">
+
 <h1>GitHub Badges</h1>
 
 
