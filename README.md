@@ -29,11 +29,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ruchik02)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h4>GiHub Metrics</h4>
-
-![GitHub metrics](https://metrics.lecoq.io/ruchik02)  
-
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Java | C++ 
