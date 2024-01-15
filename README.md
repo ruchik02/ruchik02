@@ -33,8 +33,8 @@
 
 - 💻 &nbsp; JavaScript | Java | C++ 
 - 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap
-- 🛢 &nbsp; MySQL | Mongo 
-- 🔧 &nbsp; Visual Studio code | Git 
+- 🛢 &nbsp; MySQL | Mongo | Node | GraphQL | Redis
+- 🔧 &nbsp; Visual Studio code | Git | Github | AWS
 
 <br>
 
