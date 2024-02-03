@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help **to improve my skills**
 
-- 💬 Ask me about **java,HTML,CSS,React,web Development**
+- 💬 Ask me about **Frontend and backend**
 
 - 📫 How to reach me **sruchika004@gmail.com**
 
@@ -32,7 +32,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Java | C++ 
-- 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap | Next.Js
+- 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap | Next.Js | typescript
 - 🛢 &nbsp; MySQL | Mongo | Node | GraphQL | Redis
 - 🔧 &nbsp; Visual Studio code | Git | Github | AWS
 
