@@ -32,9 +32,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Java | C++ 
-- 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap | Next.Js | typescript
+- 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap | Next.Js | Typescript
 - 🛢 &nbsp; MySQL | Mongo | Node | GraphQL | Redis
-- 🔧 &nbsp; Visual Studio code | Git | Github | AWS
+- 🔧 &nbsp; Visual Studio code | Git | Github | AWS | JIRA 
 
 <br>
 
