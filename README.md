@@ -14,7 +14,7 @@
 - 📫 How to reach me **sruchika004@gmail.com**
 
 - ⚡ Fun fact **Learn and share knowledge among students**
-- 🔍 Problem-solving: **Strong debugging skills.**
+- 🔍 Problem-solving **Strong debugging skills.**
 
 <h3> 🤝🏻 Connect with Me </h3>
 
