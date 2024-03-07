@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **Learn and share knowledge among students**
 - 🔍 Problem-solving **Strong debugging skills.**
+- ☁️ Deployment **Experienced in deploying on AWS, Vercel, Hostinger and Netlify.**
 
 <h3> 🤝🏻 Connect with Me </h3>
 
