@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruchika sharma</h1>
 <h4>Portfolio https://portfolio-jade-seven-62.vercel.app/</h4>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3960415/screenshots/8995365/media/b0b5dddc53e15f8eb666502c9c3cb5d4.gif" width="500" height="320" style="max-width:100%;">
