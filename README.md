@@ -5,15 +5,15 @@
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3960415/screenshots/8995365/media/b0b5dddc53e15f8eb666502c9c3cb5d4.gif" width="500" height="320" style="max-width:100%;">
 
-- 🌱 I’m currently working in **GeekyAnts as a software engineer**
+- 🌱 I’m currently working in **GeekyAnts as a software engineer.**
 
-- 🤝 I’m looking for help **to improve my skills**
+- 🤝 I’m looking for help **to improve my skills.**
 
-- 💬 Ask me about **Frontend and backend**
+- 💬 Ask me about **Frontend and backend.**
 
 - 📫 How to reach me **sruchika004@gmail.com**
 
-- ⚡ Fun fact **Learn and share knowledge among students**
+- ⚡ Fun fact **Learn and share knowledge among students.**
 - 🔍 Problem-solving **Strong debugging skills.**
 - ☁️ Deployment **Experienced in deploying on AWS, Vercel, Hostinger and Netlify.**
 -  🔄 State Management **Knowledgeable in Redux for large-scale React applications.**
