@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Frontend and backend.**
 
+- 📱 Experienced in iOS development with SwiftUI and cross-platform development using React Native.
+
 - 📫 How to reach me **sruchika004@gmail.com**
 
 - ⚡ Fun fact **Learn and share knowledge among students.**
