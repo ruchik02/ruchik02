@@ -37,7 +37,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Java | SwiftUI
-- 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap | Next.Js | Typescript
+- 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap | Next.Js | Typescript | Vue | Angular
 - 🛢 &nbsp; MySQL | Mongo | Node | GraphQL | Redis | SQL
 - 🔧 &nbsp; Visual Studio code | Git | Github | AWS | JIRA | Microsoft Excel
 -  ✔️ &nbsp; Testing | Jest | Mocha | React Testing Library.
